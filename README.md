@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
