@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0771-jewels-and-stones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
