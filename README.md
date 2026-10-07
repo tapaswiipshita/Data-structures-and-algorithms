@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0148-sort-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
