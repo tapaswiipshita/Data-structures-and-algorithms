@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0148-sort-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
