@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
