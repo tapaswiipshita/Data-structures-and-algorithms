@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -94,4 +95,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2073-time-needed-to-buy-tickets) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/tapaswiipshita/Data-structures-and-algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
